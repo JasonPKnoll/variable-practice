@@ -9,3 +9,6 @@ pronoun_she = false
 
 Brothers = ["Ryan","Chris","Jared"]
 Friends = ["Jackie","Leah","Barry"]
+
+month = month.new("April")
+dog = dog.name("Charley")
