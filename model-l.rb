@@ -6,3 +6,6 @@ num_foods = 10.25
 
 pronoun_he = true
 pronoun_she = false
+
+Brothers = ["Ryan","Chris","Jared"]
+Friends = ["Jackie","Leah","Barry"]
